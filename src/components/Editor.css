@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(63, 170, 63);
+}
+
+.input-text{
+    width:40vw;
+    background-color: rgb(89, 89, 237);
+    height: 80vh;
+    color: blanchedalmond;
+}
+
+.output-text{
+    width: 40vw;
+    background-color: aliceblue;
+    border:black dotted 3px;
+    border-radius: 5px;
+}
